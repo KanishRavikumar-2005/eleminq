@@ -14,3 +14,16 @@ Eleminq is a dynamic ecosystem that connects talent and opportunity with unmatch
 
 <li>Reviews: Transparency is key. Through our review system, clients can provide valuable feedback on freelancers' performance, fostering trust and accountability within the eleminq community.</li>
 </ol>
+
+How It Works:
+
+1. Sign Up: Freelancers and clients alike can easily create an account on eleminq, unlocking access to a world of exciting opportunities.
+2. Post Projects: Clients can post detailed project descriptions, outlining their requirements and expectations, and set budgets and timelines.
+3. Bid on Projects: Freelancers can browse through a diverse range of projects and submit competitive bids tailored to their expertise and availability.
+4. Award Projects: Clients can review freelancer proposals, evaluate ratings and reviews, and select the perfect candidate to bring their project to life.
+5. Collaborate: Once a project is awarded, freelancers and clients can collaborate seamlessly through our platform, ensuring clear communication and timely project delivery.
+
+Get Started:
+Join eleminq today and experience the future of freelancing bidding systems. Whether you're a seasoned freelancer looking for your next challenge or a client in need of top-tier talent, eleminq has everything you need to succeed.
+
+Let's elevate freelancing together. Welcome to eleminq.
